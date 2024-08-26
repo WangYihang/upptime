@@ -2,11 +2,17 @@
 owner: wangyihang # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+user-agent: Upptime # The user-agent used for API requests
+
 sites:
   - name: JD Compare
     url: https://jd-compare.authu.online/
+
   - name: FreeGTD
     url: https://freegtd.authu.online/
+
+assignees:
+  - $OWNER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
