@@ -8,9 +8,6 @@ sites:
   - name: JD Compare
     url: https://jd-compare.authu.online/
 
-  - name: FreeGTD
-    url: https://freegtd.authu.online/
-
   - name: ACW SC V2
     url: https://acw-sc-v2.vercel.app/
 
