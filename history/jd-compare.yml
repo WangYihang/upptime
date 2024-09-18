@@ -1,7 +1,7 @@
 url: https://jd-compare.authu.online/api/v1/health
-status: down
-code: 530
-responseTime: 287
-lastUpdated: 2024-09-18T13:19:59.951Z
+status: up
+code: 200
+responseTime: 537
+lastUpdated: 2024-09-18T14:30:33.402Z
 startTime: 2024-08-26T14:03:34.827Z
 generator: Upptime <https://github.com/upptime/upptime>
